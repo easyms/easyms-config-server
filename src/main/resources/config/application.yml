@@ -12,9 +12,9 @@ spring:
   boot:
     admin:
       client:
-        url: http://localhost:2003
-        username: admin
-        password: admin
+        url: ${boot.admin.client.url}
+        username: ${boot.admin.client.username}
+        password: ${boot.admin.client.password}
 
 easyms:
   logging:
