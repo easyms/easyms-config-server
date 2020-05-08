@@ -10,5 +10,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/khames05/easyms-config-repo
+          uri: https://github.com/easyms/easyms-config-repo
           clone-on-start: true
