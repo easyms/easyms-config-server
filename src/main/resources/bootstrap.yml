@@ -12,4 +12,4 @@ spring:
         git:
           uri: https://github.com/MOBahri/easyms-config-repo
           clone-on-start: true
-          default-label: migrate_sb3
+          default-label: migrate_spring_boot_3
