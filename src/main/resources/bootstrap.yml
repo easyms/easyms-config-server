@@ -12,4 +12,4 @@ spring:
         git:
           uri: https://github.com/easyms/easyms-config-repo
           clone-on-start: true
-          default-label: upgrade-spring-boot3
+          default-label: master
